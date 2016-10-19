@@ -24,3 +24,6 @@ target[] = 5.11.1
 
 # abi 48
 target[] = 6.2.1
+
+# abi 49
+target[] = 6.3.0
